@@ -21,7 +21,6 @@ time.sleep(5)
 
 # to read number from file
 filer = open(os.path.join(__location__, 'pipe.txt'))
-#filer = open('D:/Memrise vocab tracker/pipe.txt','r')
 NUM = filer.read()
 
 
