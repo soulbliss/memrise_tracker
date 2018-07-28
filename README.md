@@ -1,3 +1,7 @@
+
+![](https://github.com/soulbliss/memrise_tracker/blob/master/Images/memrise-logo.png)
+
+
 # memrise_tracker
 
 
@@ -19,7 +23,7 @@ python main.py
 
 
 1. Opens the browser automatically and heads to Memrise website.
-![1.JPG](https://github.com/soulbliss/memrise_tracker/blob/master/Images/1.JPG?raw=true)
+![1.JPG](https://github.com/soulbliss/memrise_tracker/blob/master/Images/1.JPG?raw=true )
 
 
 
@@ -40,7 +44,6 @@ python main.py
 3. The respective date along with the number of words learnt is logged permanently into the accompanying excel file.
 
 ![](https://github.com/soulbliss/memrise_tracker/blob/master/Images/3.JPG?raw=true)
-
 
 
 
